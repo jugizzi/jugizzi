@@ -17,7 +17,10 @@ olá, eu sou a juliana gizzi 👋
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/c7843b3676fd85af0282e629a507c54e.gif" width="125" height="125" border="0" alt="https://picasion.com/"/>
   ##
+ ![Snake animation](https://github.com/jugizzi/jugizzi/blob/output/github-contribution-grid-snake.svg)
   
+   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/c7843b3676fd85af0282e629a507c54e.gif" width="125" height="125" border="0" align="right" alt="https://picasion.com/"/>
+
+   </div>
   
