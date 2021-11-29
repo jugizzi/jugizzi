@@ -1,6 +1,6 @@
 olá, eu sou a juliana gizzi 👋
 
-- 💼 web designer
+- 💼 dev/web designer
 - 💻 estudante de front-end 
 - 😄 pronomes: ela/dela
 
